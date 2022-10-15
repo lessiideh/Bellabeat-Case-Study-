@@ -1,7 +1,5 @@
 Bellabeat Case Study
 ================
-Blessing Ideh
-2022-10-16
 
 #### **Loading the necessary packages**
 
@@ -229,7 +227,7 @@ sleep_day %>%
 #### **Analyzing the difference between total time in bed and total time asleep**
 
 ``` r
-#  Inserting a new column, Difference to compute the difference between total time in bed and total time asleep in the sleep_day data
+# Inserting a new column, Difference to compute the difference between total time in bed and total time asleep in the sleep_day data
 sleep_day <- mutate(sleep_day, Difference = TotalTimeInBed - TotalMinutesAsleep)
 ```
 
