@@ -30,5 +30,5 @@ The dataset used in the case study is the FitBit Fitness Tracker Data. It is a p
 
 ### For the purpose of this analysis 
 
-Only the sleep day and daily activity data will be used. The sleep day data tracks sleep time of respondents, total time in bed and others while the daily activity data tracks activities respondents engage by their intensity, total steps taken etc. 
+Only the sleep day and daily activity data was used. The sleep day data tracks sleep time of respondents, total time in bed and others while the daily activity data tracks activities respondents engage by their intensity, total steps taken etc. 
 
