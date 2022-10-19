@@ -6,7 +6,7 @@ Capstone project for the Google Data Analytics Certificate Course on Coursera
 
 ## Introduction
 
-Upon completion of the Google Data Analytics course on Coursera, it is optional to complete a case study to test and practice analysis skills gained through the duration of the program. Bellabeat is one of such case studies. 
+Upon completion of the Google Data Analytics course on Coursera, it is optional to complete a case study to test and practice analysis skills gained through the duration of the program. The Bellabeat case study is one of such case studies. 
 
 ## Bellabeat 
 
