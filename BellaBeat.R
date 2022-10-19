@@ -247,29 +247,3 @@ ggplot(daily_activity, aes(ActiveMinutes, TotalSteps)) +
   labs(x= "Active Minutes", y = "Total Steps",title = "Active Minutes vs Total Steps", subtitle = "Respondents take more steps when their bodies are in active states") + theme_light()
 
 
-# Findings
-# 1. A total of 33 respondents were surveyed for the smart watch analysis, although only 24 responded to the sleep_data survey.
-
-# 2. The difference in Total time asleep and total time in bed were quite large. The number of days when respondents took longer than 30 minutes to fall asleep after getting into bed was 171, 41% of the total while the respondents who slept less than 30 minutes after hitting the bed was 242, 59%.
-
-# 3. Out of the 31 days period during which the sleep data was recoreded, only 2 out of 24 respondents slept exactly 8 or more hours for 15 or more days consistently. 15 days was used as the benchmark because the time period in the data was 31 days.
-
-# 4. The busiest hours evidenced by steps taken are between 8:00am and 9:00pm, with the peak hours in the afternoon.
-
-# 5. The data on the heart rate and weight data only contained information from 8 respondents, a small sample size and was therefore excluded from the analysis to eliminate bias.
-
-# 6. Respondents spend a lot of time in bed not sleeeping and a large no of them are sleeping for less than 8 hours, the average recommended sleep hours.
-
-# 7. of 940 entries, 637 entries recorded less than 10K steps walked while 303 entries noted >=10K steps
-
-# Trends
-# 1. Smart devices record more steps taken between 8:00am and 9:00pm.
-# 2. 171 out of 413 days, smart watches recorded that users slept for exactly 8 or more hours.
-# 3. from the weight data and heart rate data, it seems participants have a hard recording said data.
-
-# Recommendations
-# I. Bellabeat could program their app to encourage users to take more walks to 
-
-# II.The app should come with an alarm system that notify users when to sleep.
-
-# III. The alarm system should also be programmed to prompt or encourage users to eengage in more mobile activities.
